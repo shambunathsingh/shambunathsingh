@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/shambunathsingh](https://linktr.ee/shambunathsingh)
 
-- 💬 Ask me about **Bootstrap, PHP and Laravel**
+- 💬 Ask me about **ReactJs, PHP and Laravel**
 
 - 📫 How to reach me **shambu.singh096@gmail.com**
 
